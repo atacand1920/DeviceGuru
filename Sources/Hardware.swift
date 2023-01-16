@@ -146,10 +146,10 @@ public enum Hardware {
     case ipad_mini_6_wifi
     case ipad_mini_6_wifi_cellular
     case ipad_pro_11_4g_wifi
-    case ipad_pro_11_4g_wifi_cellular
     case ipad_pro_11_4g_1tb_wifi_cellular
-    case ipad_pro_6g_wifi
+    case ipad_pro_11_4g_wifi_cellular
     case ipad_pro_6g_1tb_wifi
+    case ipad_pro_6g_wifi
     case ipad_pro_6g_wifi_cellular
     case ipad_pro_6g_1tb_wifi_cellular
 
