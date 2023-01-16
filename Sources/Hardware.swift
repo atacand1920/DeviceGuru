@@ -1,6 +1,6 @@
 // Copyright @DeviceGuru
 
-public enum Hardware {
+public enum Hardware: String {
 
     case unknownDevice
     case unknownIphone
